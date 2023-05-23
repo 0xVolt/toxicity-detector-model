@@ -1,2 +1,5 @@
 # Add ./assets/
 assets/
+
+# Add venv
+ToxicityDetector/
