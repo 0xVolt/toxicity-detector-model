@@ -3,3 +3,6 @@ assets/
 
 # Add venv
 ToxicityDetector/
+
+# Add environment settings
+.vscode/
