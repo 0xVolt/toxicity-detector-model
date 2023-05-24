@@ -11,4 +11,5 @@ A deep neural network model that detects toxic comments through multi-binary cla
 ## Dev Log
 
 23/5/23 - Pick up at 22:14.
-24/5/23 - Pick up at 30:15
+24/5/23 1 - Pick up at 30:15
+24/5/23 2 - Pick up at 37:00
