@@ -12,9 +12,10 @@ A deep neural network model that detects toxic comments through multi-binary cla
 
 ### Timestamps
 
-23/5/23 - Pick up at 22:14.
-24/5/23 1 - Pick up at 30:15
-24/5/23 2 - Pick up at 37:00
+23/5/23 - Pick up at 22:14. <br>
+24/5/23 1 - Pick up at 30:15. <br>
+24/5/23 2 - Pick up at 37:00. <br>
+28/5/23 - Pick up at 49:00.
 
 ### TODO
 - [ ] Wrap up tutorial
@@ -25,4 +26,4 @@ A deep neural network model that detects toxic comments through multi-binary cla
 ### Learn
 - [ ] Embedding Layers and Embeddings in DL
 - [ ] Ways to build models in `Tensorflow`
-- [ ] 
+- [ ] How to determine how many epochs to run a model for?
