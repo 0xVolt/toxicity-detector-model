@@ -20,3 +20,8 @@ A deep neural network model that detects toxic comments through multi-binary cla
 - [ ] Wrap up tutorial
 - [ ] Experiment with building the same model in PyTorch
 - [ ] Learn ways to visualise these models
+
+### Learn
+- [ ] Embedding Layers and Embeddings in DL
+- [ ] Ways to build models in `Tensorflow`
+- [ ] 
